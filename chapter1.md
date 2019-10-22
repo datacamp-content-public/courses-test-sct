@@ -13,10 +13,10 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+This is an example exercise. kh kjhgjkhg kjhgkjhg kjhg kj gkj
 
 `@instructions`
-
+lkj lkjm:lk jlkj lkh kljh lkjh kljhlkjlj klj hkljh klj hkl lkj hklj
 
 `@hint`
 
@@ -33,10 +33,11 @@ This is an example exercise.
 
 `@solution`
 ```{python}
-
+print("awesome")
 ```
 
 `@sct`
 ```{python}
-
+Ex().has_output("awesome", pattern = False)
+success_msg('Congratulations! Your path to awesomeness has began!')
 ```
